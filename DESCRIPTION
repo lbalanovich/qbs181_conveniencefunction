@@ -1,0 +1,15 @@
+Package: conveniencefunction
+Type: Package
+Title: Convenience function for R for QBS 181
+Version: 0.1.0
+Author: Lidia Balanovich
+Authors@R: person("lidia", "balanovich", email="lidia.22@dartmouth.edu")
+Description: general utilities for simple tasks
+License: MIT
+Depends: R (>= 3.5.0)
+Encoding: UTF-8
+LazyData: true
+Imports:
+  stats,
+  ggplot2
+RoxygenNote: 7.1.2
